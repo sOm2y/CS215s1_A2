@@ -1,0 +1,53 @@
+CS215S1_A2
+UPI:yyin888
+ID: 5398177
+-------------------SOLUTION---------------------------
+Part1: basci networking
+
+Q1: 
+a).	Transaction ID 0xa4c02f45
+b). 	130.216.37.105
+c). 	130.216.37.254
+d). 	IP Address: 130.216.35.35
+    	IP Address: 130.216.35.135
+
+
+Q2:
+a). 	talk.l.google.com
+b). 	130.216.1.1
+c). 	
+d). 	173.194.72.125
+e). 	216.239.32.10
+    	216.239.34.10
+    	216.239.36.10
+    	216.239.38.10
+
+
+
+Q3:
+a). 	curl
+b). 	http://tools.ietf.org/rfc/rfc2616.txt
+c). 	422565 bytes
+
+d).	 3.6629 seconds (16.898803-20.561703)
+
+Q4:
+a): 	according to the info form packets we can see 
+	if Destination is unresachable means there is no traceroute
+	otherwise it has(packet which has Time-to-live exceeded info)
+b). 	130.216.37.105
+c). 	10.067296 (21.86523500-31.93253100)
+d). 	10
+
+Part2
+Q5
+a). 	cgi
+b).	The server may set up at japan.
+
+Q6	
+a)	34
+b)	7
+c)	There is no response (403/404) probably because bulider has removed the cgi file 
+	from website database. 
+
+
